@@ -115,12 +115,11 @@
     <summary>⚡ More About Me</summary>
     <br/>
     
-  - 🔭 Currently working on **Python automation projects**
-  - 🌱 Learning **Advanced Python concepts & Data Science**
-  - 💡 Interested in **Game Development & AI**
-  - 🎯 2024 Goals: **Contribute to Open Source**
-  - ⚡ Fun fact: **I love building games!**
-    
+  • 🔭 Working on **Python & AI projects**
+	•	🌱 Learning **Machine Learning & Deep Learning**
+	•	💡 Exploring **AI applications & neural networks**
+	•	🎯 2025 Goal: **Build AI projects**
+	
   </details>
 </div>
 
@@ -140,36 +139,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
 </div>
 
-<!-- 
-ANLEITUNG ZUR EINRICHTUNG:
-========================
-
-1. REPOSITORY ERSTELLEN:
-   - Gehe zu GitHub und erstelle ein neues Repository
-   - WICHTIG: Der Repository-Name MUSS genau dein Username sein: "LeonT111"
-   - Setze es auf "Public"
-   - Füge eine README.md hinzu
-
-2. README ANPASSEN:
-   - Kopiere diesen gesamten Code
-   - Ersetze folgende Platzhalter:
-     * "tetris" → dein exakter Tetris-Repo-Name
-     * "decision-game" → dein exakter Entscheidungsspiel-Repo-Name
-     * "your.email@example.com" → deine E-Mail (oder lösche die Zeile)
-
-3. OPTIONAL - SNAKE ANIMATION AKTIVIEREN:
-   Die Snake-Animation braucht GitHub Actions. Wenn du sie willst:
-   - Gehe zu: https://github.com/Platane/snk
-   - Folge der Anleitung dort (dauert 2 Minuten)
-
-4. FARBEN ANPASSEN (OPTIONAL):
-   - Hauptfarben sind im Apple-Style (Grau/Weiß)
-   - Für Dark Mode wird automatisch angepasst
-   - customColorList in der ersten Zeile = Gradient-Farben (0-30 = Graustufen)
-
-5. BADGES ERWEITERN:
+Erweiterungen 
+BADGES ERWEITERN:
    - Weitere Badges findest du auf: https://shields.io/
    - Format: ![Name](https://img.shields.io/badge/Name-HexColor?style=for-the-badge&logo=logoname&logoColor=white)
 
-FERTIG! 🎉
--->
+
