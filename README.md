@@ -1,147 +1,244 @@
-
-<!-- ===========================
-      Animated Banner
-=========================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Leon&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Python%20Developer&descAlignY=60&descSize=22" width="100%" />
+
+<!-- Animiertes Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Leon&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Python%20Developer&descAlignY=55&descSize=20" width="100%" />
 </div>
 
-<br/>
+### Python Developer • AI Enthusiast • 16 Years Old
 
-## About me
-- **Leon, 16 years old** — based in Baden-Württemberg, Germany 🌍  
-- Learning **Python** 🐍 and exploring **AI / Machine Learning** 🤖  
-- Passionate about **self-development** and collaborating with people who **challenge and help me grow** ⚡  
-- Awarded **Landespreis Medienbildung** 🏆 for explaining AI & ChatGPT concepts  
+[![](https://img.shields.io/badge/🌍_Baden--Württemberg-Germany-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg)
+[![](https://img.shields.io/badge/🎯_Focus-AI_&_Python-orange?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/🏆_Award-Landespreis_Medienbildung-gold?style=for-the-badge)](#)
 
-<br/>
-
-<!-- ===========================
-      Tech Stack
-=========================== -->
-<div align="center">
-  <h2>💻 Tech Arsenal</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
-</div>
-
-<br/>
-
-## 🎯 My Projects
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-[![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=LeonT111&repo=Tetris&theme=tokyonight&hide_border=true&border_radius=15)](https://github.com/LeonT111/Tetris)  
-
-**🎮 Tetris** • Python • Pygame  
-Classic Tetris game implemented in Python  
+```ascii
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  "Building the future, one line of Python at a time"        ║
+    ╚══════════════════════════════════════════════════════════════╛
+```
 
 </div>
 
-<br/>
+---
 
-<!-- ===========================
-      GitHub Stats
-=========================== -->
-<div align="center">
-  <h2>📊 GitHub Analytics & Performance</h2>
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonT111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonT111&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonT111&theme=tokyonight&hide_border=true&border_radius=15" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonT111&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="100%"/>
-</div>
+## 🎯 About Me
 
-<br/>
+<table>
+<tr>
+<td width="60%">
 
-<!-- ===========================
-      Current Learning & Goals
-=========================== -->
-<div align="center">
-  <h2>🎯 Current Focus & Goals 2025</h2>
-  
-  **🔬 Currently Learning:**  
-  🧠 Advanced Deep Learning Architectures  
-  🤖 Large Language Models (LLMs)  
-  ⚡ MLOps & Model Deployment  
-  🔍 Computer Vision Applications  
-  📈 Reinforcement Learning  
+**Hey! I'm Leon** 👋
 
-  **🚀 Goals for 2025:**  
-  🏆 Deploy 3 Production AI Models  
-  📚 Contribute to Open Source AI Projects  
-  🎓 Complete Advanced ML Specialization  
-  💼 Build AI-Powered SaaS Application  
-  🌟 Reach 1K GitHub Stars  
-</div>
+- 🧠 **16 years old** from Baden-Württemberg, Germany
+- 🐍 **Python enthusiast** diving deep into AI & Machine Learning
+- 🏆 **Award winner**: Landespreis Medienbildung for explaining AI & ChatGPT
+- ⚡ **Growth mindset**: Always seeking challenges and collaborations
+- 🚀 **Mission**: Using code to solve real-world problems
 
-<br/>
+</td>
+<td width="40%">
 
-<!-- ===========================
-      Connect & Contact
-=========================== -->
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-LeonT111-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/LeonT111)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:your.email@example.com)
-  [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discord.gg/yourserver)
-
-  <p><em>🚀 Always open to exciting AI projects and collaborations!</em></p>
-</div>
-
-<br/>
-
-<!-- ===========================
-      Fun Facts
-=========================== -->
-<div align="center">
-  <details>
-    <summary><strong>⚡ Fun Facts About Me</strong></summary>
-    <br/>
+```python
+class Leon:
+    def __init__(self):
+        self.age = 16
+        self.location = "Baden-Württemberg, DE"
+        self.languages = ["Python"]
+        self.interests = ["AI", "ML", "Game Development"]
+        self.goal = "Build amazing things"
     
-🧠 **AI Enthusiast** → Exploring real-world AI solutions that make a difference  
-🎮 **Game Creator** → Building games that combine fun with AI challenges  
-📚 **Lifelong Learner** → Always diving into ML research papers & new projects  
-🤖 **Future Vision** → Using AI to help humanity solve complex problems  
-⚡ **Code Philosophy** → Clean, readable code is the foundation of everything  
-🌟 **Open Source Advocate** → Sharing knowledge and contributing to the community  
-🎯 **Problem Solver** → Love tackling algorithm & optimization challenges  
+    def current_focus(self):
+        return "Learning Python & exploring AI"
+```
 
-  </details>
-</div>
-<br/>
+</td>
+</tr>
+</table>
 
-<!-- ===========================
-      Profile Views & Snake
-=========================== -->
+---
+
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeonT111&style=for-the-badge&color=0891b2&label=Profile+Views" />
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pygame](https://img.shields.io/badge/Pygame-32CD32?style=for-the-badge&logo=python&logoColor=white)
+
+### Data Science & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 </div>
 
-<br/>
+---
 
-<!-- ===========================
-      Footer
-=========================== -->
+## 🎮 Featured Project
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
-  <br/>
-  <em>💡 "The best way to predict the future is to create it with AI and Python" 🚀</em>
+
+<a href="https://github.com/LeonT111/Tetris">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonT111&repo=Tetris&theme=github_dark&hide_border=true&border_radius=10" />
+</a>
+
+### 🎯 Tetris Game Engine
+**Tech Stack:** Python • Pygame  
+**Features:** Full game mechanics, smooth animations, collision detection  
+**Status:** ✅ Complete & Playable
+
+[🔗 **View Project**](https://github.com/LeonT111/Tetris) • [📱 **Play Demo**](#)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=LeonT111&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Leon's%20GitHub%20Stats" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonT111&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonT111&theme=github-dark-blue&hide_border=true" />
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonT111&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
+
+</div>
+
+---
+
+## 🎯 2025 Roadmap
+
+<div align="center">
+
+```mermaid
+timeline
+    title Leon's AI Journey 2025
+    
+    Q1 2025 : Deep Learning Foundations
+            : Computer Vision Projects
+            : MLOps Basics
+    
+    Q2 2025 : Large Language Models
+            : First AI Production App
+            : Open Source Contributions
+    
+    Q3 2025 : Advanced ML Algorithms
+            : AI SaaS Development
+            : Tech Conference Speaking
+    
+    Q4 2025 : AI Research Papers
+            : 100 GitHub Stars Goal
+            : Next Level Projects
+```
+
+</div>
+
+### 🚀 Current Learning Path
+
+<table>
+<tr>
+<td width="50%">
+
+**🔬 Exploring Now**
+- 🧠 Deep Learning Architectures
+- 🤖 Large Language Models (LLMs) 
+- 🔍 Computer Vision Applications
+- 📈 Reinforcement Learning
+- ⚡ MLOps & Model Deployment
+
+</td>
+<td width="50%">
+
+**🎯 2025 Goals**
+- 🏆 Deploy 3 Production AI Models
+- 📚 Contribute to 10+ Open Source Projects
+- 🎓 Complete Advanced ML Certification
+- 💼 Build AI-Powered SaaS Application
+- 🌟 Reach 1,000 GitHub Stars
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Achievements & Recognition
+
+<div align="center">
+
+| 🏆 Achievement | 📅 Year | 📝 Details |
+|:---|:---:|:---|
+| **Landespreis Medienbildung** | 2025 | Awarded for explaining AI & ChatGPT concepts |
+| **First Game Release** | 2025 | Successfully built and released Tetris game |
+| **Python Proficiency** | 2025 | Solid foundation in Python programming |
+| **AI Knowledge** | 2025 | Deep understanding of AI/ML fundamentals |
+
+</div>
+
+---
+
+## 💫 What Makes Me Unique
+
+<div align="center">
+
+<details>
+<summary>✨ <strong>Click to discover more about me</strong></summary>
+
+<br>
+
+🧠 **AI Visionary** → Passionate about creating AI solutions that genuinely help people  
+🎮 **Creative Coder** → Love building games that challenge both players and myself  
+📚 **Knowledge Seeker** → Always reading the latest ML papers and experimenting  
+🤖 **Future Builder** → Believe AI will revolutionize how we solve problems  
+⚡ **Clean Code Advocate** → Beautiful, readable code is the foundation of great software  
+🌍 **Community Contributor** → Excited to share knowledge and learn from others  
+🎯 **Challenge Embracer** → Complex problems are just puzzles waiting to be solved  
+🚀 **Innovation Driver** → Always pushing boundaries and trying new approaches  
+
+</details>
+
+</div>
+
+---
+
+## 📱 Let's Connect & Collaborate
+
+<div align="center">
+
+### 🤝 Ready for exciting projects and collaborations!
+
+[![GitHub](https://img.shields.io/badge/GitHub-LeonT111-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonT111)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-Join_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+
+### 💬 Always open to:
+**🔥 AI Projects** • **🎮 Game Development** • **📚 Knowledge Sharing** • **🚀 Startups Ideas**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎊 Thanks for visiting my profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=LeonT111&style=for-the-badge&color=brightgreen&label=Visitors)
+![GitHub followers](https://img.shields.io/github/followers/LeonT111?style=for-the-badge&color=blue&label=Followers)
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating my contributions" />
+
+---
+
+**💡 "The best way to predict the future is to create it with AI and Python"**
+
+*Made with ❤️ by Leon • Last updated: 2025*
+
 </div>
