@@ -1,3 +1,4 @@
+
 <!-- ===========================
       Animated Banner
 =========================== -->
@@ -95,19 +96,19 @@ Classic Tetris game implemented in Python
 <div align="center">
   <h2>🎯 Current Focus & Goals 2025</h2>
   
-  **🔬 Currently Learning:**
-  - 🧠 Advanced Deep Learning Architectures
-  - 🤖 Large Language Models (LLMs)
-  - ⚡ MLOps & Model Deployment
-  - 🔍 Computer Vision Applications
-  - 📈 Reinforcement Learning
+  **🔬 Currently Learning:**  
+  🧠 Advanced Deep Learning Architectures  
+  🤖 Large Language Models (LLMs)  
+  ⚡ MLOps & Model Deployment  
+  🔍 Computer Vision Applications  
+  📈 Reinforcement Learning  
 
-  **🚀 Goals for 2025:**
-  - 🏆 Deploy 3 Production AI Models
-  - 📚 Contribute to Open Source AI Projects
-  - 🎓 Complete Advanced ML Specialization
-  - 💼 Build AI-Powered SaaS Application
-  - 🌟 Reach 1K GitHub Stars
+  **🚀 Goals for 2025:**  
+  🏆 Deploy 3 Production AI Models  
+  📚 Contribute to Open Source AI Projects  
+  🎓 Complete Advanced ML Specialization  
+  💼 Build AI-Powered SaaS Application  
+  🌟 Reach 1K GitHub Stars  
 </div>
 
 <br/>
@@ -168,4 +169,4 @@ Classic Tetris game implemented in Python
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
   <br/>
   <em>💡 "The best way to predict the future is to create it with AI and Python" 🚀</em>
-</div>
+</div>u
