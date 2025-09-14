@@ -46,16 +46,6 @@ Classic Tetris game implemented in Python
 
 </div>
 
-<details>
-<summary>📝 Project Description</summary>
-<br/>
-
-| Project | Description | Tech |
-|---------|------------|------|
-| 🎮 Tetris | Classic Tetris game implemented in Python with Pygame | Python, Pygame |
-
-</details>
-
 <br/>
 
 <!-- ===========================
