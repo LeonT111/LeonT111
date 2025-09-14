@@ -177,6 +177,7 @@
   
   [![GitHub](https://img.shields.io/badge/GitHub-LeonT111-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/LeonT111)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:your.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/yourprofile)
   [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discord.gg/yourserver)
 </div>
 
@@ -235,3 +236,4 @@
 <div align="center">
   <em>💡 "The best way to predict the future is to create it with AI and Python" 🚀</em>
 </div>
+
