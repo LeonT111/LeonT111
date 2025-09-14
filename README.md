@@ -109,16 +109,17 @@ Classic Tetris game implemented in Python
   <details>
     <summary><strong>⚡ Fun Facts About Me</strong></summary>
     <br/>
-    - 🧠 AI Enthusiast: Exploring real-world AI solutions  
-    - 🎮 Game Creator: Fun + AI challenges  
-    - 📚 Lifelong Learner: ML research papers & projects  
-    - 🤖 Future Vision: AI to help humanity  
-    - ⚡ Code Philosophy: Clean, readable code  
-    - 🌟 Open Source Advocate  
-    - 🎯 Problem Solver: Algorithm & optimization challenges
+    
+🧠 **AI Enthusiast** → Exploring real-world AI solutions that make a difference  
+🎮 **Game Creator** → Building games that combine fun with AI challenges  
+📚 **Lifelong Learner** → Always diving into ML research papers & new projects  
+🤖 **Future Vision** → Using AI to help humanity solve complex problems  
+⚡ **Code Philosophy** → Clean, readable code is the foundation of everything  
+🌟 **Open Source Advocate** → Sharing knowledge and contributing to the community  
+🎯 **Problem Solver** → Love tackling algorithm & optimization challenges  
+
   </details>
 </div>
-
 <br/>
 
 <!-- ===========================
