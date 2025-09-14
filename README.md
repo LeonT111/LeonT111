@@ -115,10 +115,10 @@
     <summary>⚡ More About Me</summary>
     <br/>
     
-  • 🔭 Working on **Python & AI projects**
-	•	🌱 Learning **Machine Learning & Deep Learning**
-	•	💡 Exploring **AI applications & neural networks**
-	•	🎯 2025 Goal: **Build AI projects**
+  -• 🔭 Working on **Python & AI projects**
+	-•	🌱 Learning **Machine Learning & Deep Learning**
+	-•	💡 Exploring **AI applications & neural networks**
+	-•	🎯 2025 Goal: **Build AI projects**
 	
   </details>
 </div>
