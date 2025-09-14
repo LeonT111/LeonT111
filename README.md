@@ -115,10 +115,10 @@
     <summary>⚡ More About Me</summary>
     <br/>
     
-  -• 🔭 Working on **Python & AI projects**
-	-•	🌱 Learning **Machine Learning & Deep Learning**
-	-•	💡 Exploring **AI applications & neural networks**
-	-•	🎯 2025 Goal: **Build AI projects**
+  • 🔭 Working on **Python & AI projects**
+  •	🌱 Learning **Machine Learning & Deep Learning**
+  •	💡 Exploring **AI applications & neural networks**
+  •	🎯 2025 Goal: **Build AI projects**
 	
   </details>
 </div>
@@ -140,7 +140,7 @@
 </div>
 
 Erweiterungen 
-BADGES ERWEITERN:
+BADGES ERWEITERN
    - Weitere Badges findest du auf: https://shields.io/
    - Format: ![Name](https://img.shields.io/badge/Name-HexColor?style=for-the-badge&logo=logoname&logoColor=white)
 
