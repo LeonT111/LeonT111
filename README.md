@@ -1,129 +1,220 @@
-<!-- Animiertes Banner -->
+<!-- Dynamic Header with AI Theme -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Leon&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Python%20Developer&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Leon%20T111&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20Python%20Developer&descAlignY=55&descSize=24" width="100%" />
 </div>
 
-<!-- Typing Animation -->
+<!-- Enhanced Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Python+Enthusiast+%F0%9F%90%8D;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Machine+Learning+Enthusiast;🐍+Python+Developer+%26+Problem+Solver;🚀+Building+the+Future+with+Code;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- About Me Section -->
+<!-- Professional Bio with Icons -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=SF+Pro&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+elegant+solutions+with+clean+code">
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro&size=16&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Building+elegant+solutions+with+clean+code" alt="Bio">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=18&duration=4000&pause=1500&color=666666&center=true&vCenter=true&width=800&lines=🎯+Crafting+intelligent+solutions+with+Python+%26+AI;📊+Data+Science+•+Machine+Learning+•+Game+Development;🔬+Always+experimenting+with+cutting-edge+technologies" alt="Bio">
 </div>
 
 <br/>
 
-<!-- Tech Stack mit Apple-Style Badges -->
+---
+
+<!-- Enhanced Tech Stack with Categories -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> 
+    Tech Arsenal
   </h2>
+</div>
+
+### 🤖 AI & Machine Learning
+<div align="center">
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+### 📊 Data Science & Analytics
+<div align="center">
   
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
+
+### 🎮 Development & Tools
+<div align="center">
+  
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+</div>
+
+---
 
 <br/>
 
-<!-- Featured Projects -->
+<!-- Featured Projects with Better Cards -->
 <div align="center">
-  <h2>✨ Featured Projects</h2>
+  <h2>🚀 Featured AI & Python Projects</h2>
 </div>
 
 <div align="center">
-  <a href="https://github.com/LeonT111/tetris">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonT111&repo=tetris&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa" />
-  </a>
-  <a href="https://github.com/LeonT111/decision-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonT111&repo=decision-game&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎮 AI-Powered Tetris</h3>
+        <div align="center">  
+          <a href="https://github.com/LeonT111/tetris">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonT111&repo=tetris&theme=tokyonight&hide_border=true&border_radius=15" />
+          </a>
+          <p><strong>Tech:</strong> Python • Pygame • AI Algorithms</p>
+          <p>Classic game with intelligent AI opponent and adaptive difficulty</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🧠 Decision AI Engine</h3>
+        <div align="center">
+          <a href="https://github.com/LeonT111/decision-game">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonT111&repo=decision-game&theme=tokyonight&hide_border=true&border_radius=15" />
+          </a>
+          <p><strong>Tech:</strong> Python • Machine Learning • Decision Trees</p>
+          <p>Interactive ML-based decision making with predictive analytics</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<details>
-<summary>📝 Project Descriptions</summary>
+<div align="center">
+  <details>
+    <summary>💡 <strong>Project Deep Dive</strong></summary>
+    <br/>
+    
+| 🏆 Project | 🎯 Focus Area | 🛠️ Key Technologies | 📈 Impact |
+|------------|---------------|---------------------|-----------|
+| **🎮 AI Tetris** | Game AI & Algorithms | Python, Pygame, Neural Networks | Smart gameplay with learning AI |
+| **🧠 Decision Engine** | Machine Learning | Python, Scikit-learn, Data Analysis | Intelligent decision support system |
+| **🔬 ML Experiments** | Research & Development | TensorFlow, PyTorch, Jupyter | Cutting-edge AI research |
+| **📊 Data Insights** | Data Science | Pandas, NumPy, Visualization | Actionable business intelligence |
+
+  </details>
+</div>
+
+---
+
 <br/>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎮 **Tetris** | Classic Tetris game implementation with modern twist | Python, Pygame |
-| 🎯 **Decision Game** | Interactive decision-making game with multiple paths | Python |
+<!-- Advanced GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Analytics & Performance</h2>
+</div>
 
-</details>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonT111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonT111&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonT111&theme=tokyonight&hide_border=true&border_radius=15" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonT111&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" width="100%"/>
+</div>
+
+---
 
 <br/>
 
-<!-- GitHub Stats im Apple Style -->
+<!-- Current Learning & Goals -->
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2>🎯 Current Focus & Goals</h2>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonT111&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=f6f8fa&title_color=000000&text_color=333333&icon_color=586069"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonT111&layout=compact&langs_count=8&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&title_color=000000&text_color=333333"/>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🔬 Currently Learning</h3>
+        <ul align="left">
+          <li>🐍 Python Programming Basics</li>
+          <li>📘 Algorithms & Data Structures</li>
+          <li>⚡ File Handling & Automation</li>
+          <li>🛠️ GitHub & VS Code Workflow</li>
+          <li>💡 First Steps in AI & Data Science</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>🚀 2025 Goals</h3>
+        <ul align="left">
+          <li>🏗️ Build & Share Python Projects</li>
+          <li>📚 Improve Coding Skills Daily</li>
+          <li>🎮 Develop a Small Python Game</li>
+          <li>💼 Learn About AI & Machine Learning Fundamentals</li>
+          <li>🌟 Grow GitHub Portfolio</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonT111&theme=default&hide_border=true&border_radius=15&background=f6f8fa&stroke=e1e4e8&ring=0969da&fire=fb8500&currStreakLabel=000000&sideLabels=586069&currStreakNum=000000&sideNums=586069&dates=586069" />
-</div>
+---
 
 <br/>
 
-<!-- Contribution Graph -->
+<!-- Connect & Contact -->
 <div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonT111&theme=minimal&hide_border=true&bg_color=f6f8fa&color=0969da&line=0969da&point=586069&area=true&area_color=dce7f7" width="100%"/>
+  <h2>🤝 Let's Connect & Collaborate</h2>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-LeonT111-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/LeonT111)
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:your.email@example.com)
+  [![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)](https://discord.gg/yourserver)
+</div>
+
+<div align="center">
+  <p><em>🚀 Always open to exciting AI projects and collaborations!</em></p>
+</div>
+
+---
+
+<br/>
+
+<!-- Fun Facts Expandable -->
+<div align="center">
+  <details>
+    <summary><strong>⚡ Fun Facts About Me</strong></summary>
+    <br/>
+    
+- 🧠 **AI Enthusiast**: Fascinated by how artificial intelligence can solve complex real-world problems
+- 🎮 **Game Creator**: Love building games that challenge both players and AI systems  
+- 📚 **Lifelong Learner**: Always diving deep into the latest ML research papers and technologies
+- 🤖 **Future Vision**: Dream of creating AI that genuinely helps humanity progress
+- ⚡ **Code Philosophy**: Believe that clean, readable code is the foundation of great AI systems
+- 🌟 **Open Source**: Strong advocate for open-source AI development and knowledge sharing
+- 🎯 **Problem Solver**: Enjoy tackling complex algorithmic challenges and optimization problems
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWahl0ujLwDoJs/giphy.gif" width="200">
+</div>
+
+  </details>
 </div>
 
 <br/>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LeonT111&style=for-the-badge&color=lightgrey&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=LeonT111&style=for-the-badge&color=0891b2&label=Profile+Views" />
 </div>
-
-<br/>
-
-<!-- Connect Section -->
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-LeonT111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonT111)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-</div>
-
-<br/>
-
-<!-- Fun Facts / Currently Learning -->
-<div align="center">
-  <details>
-    <summary>⚡ More About Me</summary>
-    <br/>
-    
-  • 🔭 Working on **Python & AI projects**
-  •	🌱 Learning **Machine Learning & Deep Learning**
-  •	💡 Exploring **AI applications & neural networks**
-  •	🎯 2025 Goal: **Build AI projects**
-	
-  </details>
-</div>
-
-<br/>
 
 <!-- Snake Animation -->
 <div align="center">
@@ -136,12 +227,11 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
 </div>
 
-Erweiterungen 
-BADGES ERWEITERN
-   - Weitere Badges findest du auf: https://shields.io/
-   - Format: ![Name](https://img.shields.io/badge/Name-HexColor?style=for-the-badge&logo=logoname&logoColor=white)
+---
 
-
+<div align="center">
+  <em>💡 "The best way to predict the future is to create it with AI and Python" 🚀</em>
+</div>
