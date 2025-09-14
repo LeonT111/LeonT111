@@ -6,23 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Leon&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Python%20Developer&descAlignY=60&descSize=22" width="100%" />
 </div>
 
-<!-- ===========================
-      Typing Animation
-=========================== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Machine+Learning+Enthusiast;🐍+Python+Developer+%26+Problem+Solver;🚀+Building+the+Future+with+Code;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
-  </a>
-</div>
-
 <br/>
-
-<!-- ===========================
-      Professional Bio
-=========================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=18&duration=4000&pause=1200&color=999999&center=true&vCenter=true&width=800&lines=🎯+Learning+Python+%26+Exploring+AI;⚡+Focused+on+Personal+Growth;🏆+Landespreis+Medienbildung+for+AI;🔬+Experimenting+with+Small+Projects" alt="Bio">
-</div>
 
 ## About me
 - **Leon, 16 years old** — based in Baden-Württemberg, Germany 🌍  
@@ -169,4 +153,4 @@ Classic Tetris game implemented in Python
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
   <br/>
   <em>💡 "The best way to predict the future is to create it with AI and Python" 🚀</em>
-</div>u
+</div>
