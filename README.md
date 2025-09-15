@@ -216,7 +216,7 @@ timeline
 ### 🤝 Ready for exciting projects and collaborations!
 
 [![GitHub](https://img.shields.io/badge/GitHub-LeonT111-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonT111)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.Leon@Tscheschlock.de)
 [![Discord](https://img.shields.io/badge/Discord-Join_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 
 ### 💬 Always open to:
