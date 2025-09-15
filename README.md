@@ -115,6 +115,7 @@ class Leon:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonT111&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
 
 </div>
+
 ---
 
 ## 🎯 2025 Roadmap
@@ -155,7 +156,6 @@ timeline
 **🔬 Exploring Now**
 - 🐍 Learning Python deeply & building projects
 - 🧠 Diving deeper into AI & Machine Learning
-
 - 🔍 Small AI experiments (chatbots, image recognition, automations)
 - ⚡ Writing clean code & improving programming logic
 
