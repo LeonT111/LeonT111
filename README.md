@@ -97,7 +97,6 @@ class Leon:
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -110,7 +109,7 @@ class Leon:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonT111&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonT111&theme=github-dark-blue&hide_border=true&fire=FF6B35&ring=1F6FEB&currStreakLabel=58A6FF" />
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonT111&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
