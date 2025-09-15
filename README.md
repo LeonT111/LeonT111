@@ -92,7 +92,7 @@ class Leon:
 **Features:** Full game mechanics, smooth animations, collision detection  
 **Status:** ✅ Complete & Playable
 
-[🔗 **View Project**](https://github.com/LeonT111/Tetris) • [📱 **Play Demo**](#)
+
 
 </div>
 
@@ -103,6 +103,7 @@ class Leon:
 <div align="center">
 
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=LeonT111&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Leon's%20GitHub%20Stats" />
+
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonT111&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonT111&theme=github-dark-blue&hide_border=true" />
@@ -122,24 +123,25 @@ class Leon:
 timeline
     title Leon's AI Journey 2025
     
-    Q1 2025 : Deep Learning Foundations
-            : Computer Vision Projects
-            : MLOps Basics
+    Q1 2025 : Python Exercises & Small GitHub Projects
+            : First AI Experiments (e.g., Image Recognition)
+            : GitHub Profile & README Optimization
     
-    Q2 2025 : Large Language Models
-            : First AI Production App
-            : Open Source Contributions
+    Q2 2025 : Start Small AI Project (Chatbot/Tool)
+            : Python Automations (Scripts & Bots)
+            : Regular GitHub Updates
     
-    Q3 2025 : Advanced ML Algorithms
-            : AI SaaS Development
-            : Tech Conference Speaking
+    Q3 2025 : Dive Deeper into Machine Learning (TensorFlow/PyTorch Basics)
+            : Contribute to Open Source on GitHub
+            : Clean Code: Documentation & Testing
     
-    Q4 2025 : AI Research Papers
-            : 100 GitHub Stars Goal
-            : Next Level Projects
+    Q4 2025 : Present First Bigger AI Project on GitHub
+            : Goal: 50+ GitHub Stars
+            : Prepare for 2026: Advanced AI Models & Collaboration
 ```
 
 </div>
+<div align="center">
 
 ### 🚀 Current Learning Path
 
@@ -147,22 +149,23 @@ timeline
 <tr>
 <td width="50%">
 
+
 **🔬 Exploring Now**
-- 🧠 Deep Learning Architectures
-- 🤖 Large Language Models (LLMs) 
-- 🔍 Computer Vision Applications
-- 📈 Reinforcement Learning
-- ⚡ MLOps & Model Deployment
+- 🐍 Learning Python deeply & building projects
+- 🧠 Diving deeper into AI & Machine Learning
+
+- 🔍 Small AI experiments (chatbots, image recognition, automations)
+- ⚡ Writing clean code & improving programming logic
 
 </td>
 <td width="50%">
 
 **🎯 2025 Goals**
-- 🏆 Deploy 3 Production AI Models
-- 📚 Contribute to 10+ Open Source Projects
-- 🎓 Complete Advanced ML Certification
-- 💼 Build AI-Powered SaaS Application
-- 🌟 Reach 1,000 GitHub Stars
+- 🏆 Master Python to handle complex projects
+- 📚 Make first contributions to open-source projects
+- 🎓 Publish own AI tool or small project on GitHub
+- 💼 Build small Python/KI projects
+- 🌟 Goal: 50+ GitHub stars for own projects
 
 </td>
 </tr>
@@ -177,9 +180,9 @@ timeline
 | 🏆 Achievement | 📅 Year | 📝 Details |
 |:---|:---:|:---|
 | **Landespreis Medienbildung** | 2025 | Awarded for explaining AI & ChatGPT concepts |
-| **First Game Release** | 2025 | Successfully built and released Tetris game |
-| **Python Proficiency** | 2025 | Solid foundation in Python programming |
-| **AI Knowledge** | 2025 | Deep understanding of AI/ML fundamentals |
+| **First Python Project** | 2025 | Built and published first small Python project on GitHub |
+| **AI Experiments** | 2025 | Completed first AI experiments (chatbots, image recognition) |
+| **GitHub Milestone** | 2025 | Organized profile & published multiple projects |
 
 </div>
 
@@ -194,20 +197,29 @@ timeline
 
 <br>
 
-🧠 **AI Visionary** → Passionate about creating AI solutions that genuinely help people  
-🎮 **Creative Coder** → Love building games that challenge both players and myself  
-📚 **Knowledge Seeker** → Always reading the latest ML papers and experimenting  
-🤖 **Future Builder** → Believe AI will revolutionize how we solve problems  
-⚡ **Clean Code Advocate** → Beautiful, readable code is the foundation of great software  
-🌍 **Community Contributor** → Excited to share knowledge and learn from others  
-🎯 **Challenge Embracer** → Complex problems are just puzzles waiting to be solved  
-🚀 **Innovation Driver** → Always pushing boundaries and trying new approaches  
+🧠 **AI Visionary** → Passionate about experimenting with AI projects and small tools  
+
+🎮 **Creative Coder** → Enjoy building Python projects and games like Tetris  
+
+📚 **Knowledge Seeker** → Always learning new Python libraries & ML concepts  
+
+🤖 **Future Builder** → Exploring how AI can solve real-world problems  
+
+⚡ **Clean Code Advocate** → Writing readable, organized Python code  
+
+🌍 **Community Contributor** → Sharing projects on GitHub and learning from others  
+
+🎯 **Challenge Embracer** → Enjoy tackling challenging coding problems  
+
+🚀 **Innovation Driver** → Always trying new projects and coding approaches  
 
 </details>
 
 </div>
 
 ---
+
+</div>
 
 ## 📱 Let's Connect & Collaborate
 
@@ -217,7 +229,8 @@ timeline
 
 [![GitHub](https://img.shields.io/badge/GitHub-LeonT111-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonT111)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.Leon@Tscheschlock.de)
-[![Discord](https://img.shields.io/badge/Discord-Join_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+![Discord](https://img.shields.io/badge/Discord-LeonT111%230126-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 
 ### 💬 Always open to:
 **🔥 AI Projects** • **🎮 Game Development** • **📚 Knowledge Sharing** • **🚀 Startups Ideas**
