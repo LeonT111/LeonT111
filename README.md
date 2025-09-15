@@ -106,7 +106,7 @@ class Leon:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonT111&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonT111&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=495" />
 
 <br/>
 
