@@ -11,6 +11,8 @@
 [![](https://img.shields.io/badge/🎯_Focus-AI_&_Python-orange?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/🏆_Award-Landespreis_Medienbildung-gold?style=for-the-badge)](#)
 
+<div align="center">
+  
 ```ascii
     ╔══════════════════════════════════════════════════════════════╗
     ║  "Building the future, one line of Python at a time"         ║
