@@ -15,7 +15,7 @@
   
 ```ascii
     ╔══════════════════════════════════════════════════════════════╗
-    ║  "Building the future, one line of Python at a time"         ║
+    ║      "Building the future, one line of Python at a time"     ║
     ╚══════════════════════════════════════════════════════════════╛
 ```
 
