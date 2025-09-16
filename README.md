@@ -92,16 +92,21 @@ class Leon:
 **Features:** Full game mechanics, smooth animations, collision detection  
 **Status:** ✅ Complete & Playable
 
+<div align="center">
+  
+![Static Badge](https://img.shields.io/badge/🚀_More_Projects-Coming_Soon-orange?style=for-the-badge)
 
+</div>
 
 </div>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeonT111&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Leon's%20GitHub%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=LeonT111&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Leon's%20GitHub%20Stats&ring_color=FF6B35" />
 
 <br/>
 
@@ -110,6 +115,8 @@ class Leon:
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonT111&theme=github-dark-blue&hide_border=true&fire=FF6B35&ring=1F6FEB&currStreakLabel=58A6FF" />
+
+<br/>
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonT111&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
@@ -144,6 +151,7 @@ timeline
 ```
 
 </div>
+
 <div align="center">
 
 ### 🚀 Current Learning Path
@@ -151,7 +159,6 @@ timeline
 <table>
 <tr>
 <td width="50%">
-
 
 **🔬 Exploring Now**
 - 🐍 Learning Python deeply & building projects
@@ -172,6 +179,8 @@ timeline
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -221,8 +230,6 @@ timeline
 
 ---
 
-</div>
-
 ## 📱 Let's Connect & Collaborate
 
 <div align="center">
@@ -230,9 +237,7 @@ timeline
 ### 🤝 Ready for exciting projects and collaborations!
 
 [![GitHub](https://img.shields.io/badge/GitHub-LeonT111-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonT111)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.Leon@Tscheschlock.de)
 ![Discord](https://img.shields.io/badge/Discord-LeonT111%230126-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
 
 ### 💬 Always open to:
 **🔥 AI Projects** • **🎮 Game Development** • **📚 Knowledge Sharing** • **🚀 Startups Ideas**
