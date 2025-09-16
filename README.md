@@ -12,9 +12,9 @@
 [![](https://img.shields.io/badge/🏆_Award-Landespreis_Medienbildung-gold?style=for-the-badge)](#)
 
 ```ascii
-╔════════════════════════════════════════════════════════════════════╗
-║        "Building the future, one line of Python at a time"        ║
-╚════════════════════════════════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════════════════════╗
+    ║       "Building the future, one line of Python at a time"    ║
+    ╚══════════════════════════════════════════════════════════════╛
 ```
 
 </div>
@@ -94,7 +94,7 @@ class Leon:
 
 <div align="center">
   
-![Static Badge](https://img.shields.io/badge/🚀_More_AI_Projects-Coming_Soon-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/🚀_More_Projects-Coming_Soon-orange?style=for-the-badge)
 
 </div>
 
