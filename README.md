@@ -108,6 +108,7 @@ class Leon:
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeonT111&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Leon's%20GitHub%20Stats&ring_color=FF6B35" />
 
+
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonT111&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=495" />
