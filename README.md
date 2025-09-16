@@ -13,9 +13,11 @@
 
 <div align="center">
 
-> **"Building the future, one line of Python at a time"**
-
-</div>
+```ascii
+    ╔══════════════════════════════════════════════════════════════╗
+    ║       "Building the future, one line of Python at a time"    ║
+    ╚══════════════════════════════════════════════════════════════╛
+```
 
 </div>
 
