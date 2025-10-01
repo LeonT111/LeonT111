@@ -135,19 +135,19 @@ class Leon:
 timeline
     title Leon's AI Journey 2025
     
-    Q1 2025 : Python Exercises & Small GitHub Projects
+    Q1 2026 : Python Exercises & Small GitHub Projects
             : First AI Experiments (e.g., Image Recognition)
             : GitHub Profile & README Optimization
     
-    Q2 2025 : Start Small AI Project (Chatbot/Tool)
+    Q2 2026 : Start Small AI Project (Chatbot/Tool)
             : Python Automations (Scripts & Bots)
             : Regular GitHub Updates
     
-    Q3 2025 : Dive Deeper into Machine Learning (TensorFlow/PyTorch Basics)
+    Q3 2026 : Dive Deeper into Machine Learning (TensorFlow/PyTorch Basics)
             : Contribute to Open Source on GitHub
             : Clean Code: Documentation & Testing
     
-    Q4 2025 : Present First Bigger AI Project on GitHub
+    Q4 2026 : Present First Bigger AI Project on GitHub
             : Goal: 50+ GitHub Stars
             : Prepare for 2026: Advanced AI Models & Collaboration
 ```
