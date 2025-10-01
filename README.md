@@ -81,7 +81,7 @@ class Leon:
 
 ---
 
-## 🎮 Featured Project
+## 🎮 Featured Project 🤖
 
 <div align="center">
 
@@ -133,7 +133,7 @@ class Leon:
 
 ```mermaid
 timeline
-    title Leon's AI Journey 2025
+    title Leon's AI Journey 2026
     
     Q1 2026 : Python Exercises & Small GitHub Projects
             : First AI Experiments (e.g., Image Recognition)
@@ -171,7 +171,7 @@ timeline
 </td>
 <td width="50%">
 
-**🎯 2025 Goals**
+**🎯 2026 Goals**
 - 🏆 Master Python to handle complex projects
 - 📚 Make first contributions to open-source projects
 - 🎓 Publish own AI tool or small project on GitHub
@@ -194,7 +194,7 @@ timeline
 |:---|:---:|:---|
 | **Landespreis Medienbildung** | 2025 | Awarded for explaining AI & ChatGPT concepts |
 | **First Python Project** | 2025 | Built and published first small Python project on GitHub |
-| **AI Experiments** | 2025 | Completed first AI experiments (chatbots, image recognition) |
+| **AI Experiments** | 2026 | Completed first AI experiments (chatbots, image recognition) |
 | **GitHub Milestone** | 2025 | Organized profile & published multiple projects |
 
 </div>
