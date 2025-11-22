@@ -1,23 +1,12 @@
 <div align="center">
 
-<!-- Animiertes Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Leon&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Python%20Developer&descAlignY=55&descSize=20" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Leon&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Python%20Developer&descAlignY=52&descSize=18" width="100%" />
 
 ### Python Developer • AI Enthusiast • 16 Years Old
 
 [![](https://img.shields.io/badge/🌍_Baden--Württemberg-Germany-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg)
 [![](https://img.shields.io/badge/🎯_Focus-AI_&_Python-orange?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/🏆_Award-Landespreis_Medienbildung-gold?style=for-the-badge)](#)
-
-<div align="center">
-
-```ascii
-    ╔══════════════════════════════════════════════════════════════╗
-    ║       "Building the future, one line of Python at a time"    ║
-    ╚══════════════════════════════════════════════════════════════╛
-```
 
 </div>
 
@@ -27,18 +16,21 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 **Hey! I'm Leon** 👋
 
-- 🧠 **16 years old** from Baden-Württemberg, Germany
-- 🐍 **Python enthusiast** diving deep into AI & Machine Learning
-- 🏆 **Award winner**: Landespreis Medienbildung for explaining AI & ChatGPT
-- ⚡ **Growth mindset**: Always seeking challenges and collaborations
-- 🚀 **Mission**: Using code to solve real-world problems
+I'm a **16-year-old developer** from Baden-Württemberg, passionate about Python and exploring the world of artificial intelligence.
+
+**What I'm about:**
+- 🐍 Learning Python and building practical projects
+- 🎮 Creating games and interactive experiences
+- 🤖 Understanding AI and its real-world applications
+- 🏆 Awarded **Landespreis Medienbildung** for explaining AI concepts
+- 🚀 Always looking for new challenges and learning opportunities
 
 </td>
-<td width="40%">
+<td width="45%">
 
 ```python
 class Leon:
@@ -46,11 +38,15 @@ class Leon:
         self.age = 16
         self.location = "Baden-Württemberg, DE"
         self.languages = ["Python"]
-        self.interests = ["AI", "ML", "Game Development"]
-        self.goal = "Build amazing things"
+        self.interests = [
+            "AI", 
+            "Game Development",
+            "Problem Solving"
+        ]
+        self.goal = "Build meaningful things"
     
-    def current_focus(self):
-        return "Learning Python & exploring AI"
+    def current_status(self):
+        return "Learning & building daily"
 ```
 
 </td>
@@ -59,29 +55,32 @@ class Leon:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+**Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pygame](https://img.shields.io/badge/Pygame-32CD32?style=for-the-badge&logo=python&logoColor=white)
 
-### Data Science & AI
+**Development Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**Currently Exploring**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
 ---
 
-## 🎮 Featured Project 🤖
+## 🎮 Featured Project
 
 <div align="center">
 
@@ -90,93 +89,40 @@ class Leon:
 </a>
 
 ### 🎯 Tetris Game Engine
-**Tech Stack:** Python • Pygame  
-**Features:** Full game mechanics, smooth animations, collision detection  
+
+**Built with:** Python • Pygame  
+**Features:** Complete game mechanics • Smooth animations • Collision detection  
 **Status:** ✅ Complete & Playable
 
-<div align="center">
-  
+<br>
+
 ![Static Badge](https://img.shields.io/badge/🚀_More_Projects-Coming_Soon-orange?style=for-the-badge)
 
 </div>
 
-</div>
-
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Recognition
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LeonT111&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Leon's%20GitHub%20Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonT111&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=495" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonT111&theme=github-dark-blue&hide_border=true&fire=FF6B35&ring=1F6FEB&currStreakLabel=58A6FF" />
-
-<br/>
-
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonT111&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
-
-</div>
-
----
-
-## 🎯 2025 Roadmap
-
-<div align="center">
-
-```mermaid
-timeline
-    title Leon's AI Journey 2026
-    
-    Q1 2026 : Python Exercises & Small GitHub Projects
-            : First AI Experiments (e.g., Image Recognition)
-            : GitHub Profile & README Optimization
-    
-    Q2 2026 : Start Small AI Project (Chatbot/Tool)
-            : Python Automations (Scripts & Bots)
-            : Regular GitHub Updates
-    
-    Q3 2026 : Dive Deeper into Machine Learning (TensorFlow/PyTorch Basics)
-            : Contribute to Open Source on GitHub
-            : Clean Code: Documentation & Testing
-    
-    Q4 2026 : Present First Bigger AI Project on GitHub
-            : Goal: 50+ GitHub Stars
-            : Prepare for 2026: Advanced AI Models & Collaboration
-```
-
-</div>
-
-<div align="center">
-
-### 🚀 Current Learning Path
 
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
-**🔬 Exploring Now**
-- 🐍 Learning Python deeply & building projects
-- 🧠 Diving deeper into AI & Machine Learning
-- 🔍 Small AI experiments (chatbots, image recognition, automations)
-- ⚡ Writing clean code & improving programming logic
+### 🎖️ Landespreis Medienbildung 2025
 
-</td>
-<td width="50%">
+![Award](https://img.shields.io/badge/Award-Landespreis_Medienbildung-gold?style=for-the-badge)
 
-**🎯 2026 Goals**
-- 🏆 Master Python to handle complex projects
-- 📚 Make first contributions to open-source projects
-- 🎓 Publish own AI tool or small project on GitHub
-- 💼 Build small Python/KI projects
-- 🌟 Goal: 50+ GitHub stars for own projects
+**Awarded for creating educational content about artificial intelligence**
+
+<br>
+
+| Topic | Description |
+|:---:|:---|
+| 🧠 **AI & Machine Learning** | Comprehensive explanations of how AI works |
+| 💬 **ChatGPT Technology** | Deep dive into the technology behind ChatGPT |
+| 🏢 **AI Innovation** | Exploring modern AI systems and their impact |
 
 </td>
 </tr>
@@ -186,45 +132,57 @@ timeline
 
 ---
 
-## 🌟 Achievements & Recognition
+## 🚀 Current Focus & Goals
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| 🏆 Achievement | 📅 Year | 📝 Details |
-|:---|:---:|:---|
-| **Landespreis Medienbildung** | 2025 | Awarded for explaining AI & ChatGPT concepts |
-| **First Python Project** | 2025 | Built and published first small Python project on GitHub |
-| **AI Experiments** | 2026 | Completed first AI experiments (chatbots, image recognition) |
-| **GitHub Milestone** | 2025 | Organized profile & published multiple projects |
+### 🔬 Learning Right Now
+- 🐍 Mastering Python fundamentals
+- 🎮 Building interactive projects with Pygame
+- 🧠 Exploring AI and ML concepts
+- ⚡ Writing clean, maintainable code
+- 🔍 Experimenting with small automation projects
 
-</div>
+</td>
+<td width="50%">
+
+### 🎯 Goals for 2026
+- 🏆 Handle complex Python projects confidently
+- 📚 Contribute to open-source projects
+- 🎓 Build and publish AI-powered tools
+- 💼 Create practical solutions with Python
+- 🤝 Collaborate on meaningful projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💫 What Makes Me Unique
+## 💫 What Drives Me
 
 <div align="center">
 
 <details>
-<summary>✨ <strong>Click to discover more about me</strong></summary>
+<summary>✨ <strong>Click to learn more about my approach</strong></summary>
 
 <br>
 
-🧠 **AI Visionary** → Passionate about experimenting with AI projects and small tools  
+**🧠 Curious Learner** → Always exploring new concepts and technologies
 
-🎮 **Creative Coder** → Enjoy building Python projects and games like Tetris  
+**🎮 Creative Builder** → Enjoying the process of bringing ideas to life
 
-📚 **Knowledge Seeker** → Always learning new Python libraries & ML concepts  
+**📚 Knowledge Seeker** → Constantly improving through practice and research
 
-🤖 **Future Builder** → Exploring how AI can solve real-world problems  
+**🤖 Future-Focused** → Interested in how technology shapes tomorrow
 
-⚡ **Clean Code Advocate** → Writing readable, organized Python code  
+**🌍 Community-Minded** → Sharing knowledge and learning from others
 
-🌍 **Community Contributor** → Sharing projects on GitHub and learning from others  
+**🎯 Problem Solver** → Finding elegant solutions to challenging tasks
 
-🎯 **Challenge Embracer** → Enjoy tackling challenging coding problems  
-
-🚀 **Innovation Driver** → Always trying new projects and coding approaches  
+**🚀 Growth-Driven** → Embracing challenges as opportunities to improve
 
 </details>
 
@@ -232,35 +190,28 @@ timeline
 
 ---
 
-## 📱 Let's Connect & Collaborate
+## 📬 Let's Connect
 
 <div align="center">
 
-### 🤝 Ready for exciting projects and collaborations!
-
-[![GitHub](https://img.shields.io/badge/GitHub-LeonT111-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonT111)
+[![GitHub](https://img.shields.io/badge/GitHub-LeonT111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonT111)
 ![Discord](https://img.shields.io/badge/Discord-LeonT111%230126-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 💬 Always open to:
-**🔥 AI Projects** • **🎮 Game Development** • **📚 Knowledge Sharing** • **🚀 Startups Ideas**
-
-</div>
+**🔥 Interesting Projects** • **🎮 Game Development** • **📚 Learning Together** • **🤝 Collaborations**
 
 ---
-
 <div align="center">
 
+
+
+**💡 "Learning by building, one project at a time"**
 ### 🎊 Thanks for visiting my profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeonT111&style=for-the-badge&color=brightgreen&label=Visitors)
-![GitHub followers](https://img.shields.io/github/followers/LeonT111?style=for-the-badge&color=blue&label=Followers)
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating my contributions" />
-
----
-
-**💡 "The best way to predict the future is to create it with AI and Python"**
-
-*Made with ❤️ by Leon • Last updated: 2025*
+*Last updated: 2026*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
